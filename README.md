@@ -22,7 +22,7 @@ I enjoy understanding how things work behind the scenes, improving application a
 
 ### Angular
 
-* Angular 16 → 20
+* Angular 16 → 22
 * Standalone Components
 * Angular Signals
 * Dependency Injection
