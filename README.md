@@ -113,7 +113,7 @@ I enjoy working beyond UI implementation — **debugging complex issues, underst
 
 # 💼 Professional Experience
 
-## Frontend Developer — Certified IT Consultants (CIC / TMG)
+## Frontend Developer — Certified IT Consultants (CIC)
 
 **November 2024 – Present**
 
