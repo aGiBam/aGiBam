@@ -308,16 +308,6 @@ with a focus on understanding how frontend and backend systems communicate and w
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agibam\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agibam\&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agibam)
-
----
-
 # 🎓 Education
 
 **Bachelor of Computer Science**
